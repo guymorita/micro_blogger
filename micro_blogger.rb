@@ -104,5 +104,6 @@ class MicroBlogger
   end
 end
 
+
 blogger = MicroBlogger.new
 blogger.run
